@@ -1,0 +1,51 @@
+transaction_id,created_at,donor_name,donor_email,donor_phone,amount,currency,payment_method,campaign,fund,is_recurring,marketing_consent,country,city
+WEB-100000,2025-08-18T23:32:13Z,Dmytro Romaniuk,d.romaniuk@gmail.com,,25.00,USD,card,rebuild_2026,scholarship,false,true,UA,Київ
+WEB-100001,2025-12-30T16:45:35Z,Bohdan Kozak,b.kozak@gmail.com,0664443322,5000.00,UAH,google_pay,scholarship_fund,humanitarian,true,true,UA,Вінниця
+WEB-100002,2026-07-01T10:45:21Z,Iryna Humeniuk,i.humeniuk@ukr.net,0678889900,500.00,UAH,card,winter_appeal_2024,general,false,true,UA,Київ
+WEB-100003,2024-08-21T06:42:35Z,Volodymyr Hrytsenko,v.hrytsenko@outlook.com,,250000.00,UAH,card,scholarship_fund,scholarship,false,true,UA,Київ
+WEB-100004,2024-01-25T07:13:17Z,Andrii Zghurskyi,a.zghurskyi@gmail.com,+48221234567,200.00,EUR,card,scholarship_fund,humanitarian,false,true,PL,Warsaw
+WEB-100005,2025-02-19T15:05:51Z,Ivan Melnyk,i.melnyk@ukr.net,,500.00,UAH,google_pay,scholarship_fund,humanitarian,false,true,UA,Львів
+WEB-100006,2023-12-09T04:50:33Z,Olena Kovalchuk,olenakovalchuk@gmail.com,+38 (067) 123-45-67,200.00,UAH,card,rebuild_2026,general,false,true,UA,Київ
+WEB-100007,2025-06-21T23:25:55Z,Ivan Melnychuk,melnychuk.ivan@gmail.com,0509998877,5000.00,UAH,card,emergency_2025,general,false,true,UA,Одеса
+WEB-100008,2024-04-06T20:10:38Z,Serhii Diachenko,s.diachenko@i.ua,0502223311,2000.00,UAH,google_pay,winter_appeal_2024,humanitarian,false,true,UA,Одеса
+WEB-100009,2024-04-23T21:34:19Z,Sofiia Tkachenko,sofia.tkachenko@ukr.net,,300.00,UAH,google_pay,rebuild_2026,scholarship,false,true,UA,Львів
+WEB-100010,2026-01-26T19:23:48Z,Petro Kravchenko,p.kravchenko@ukr.net,0509871234,1000.00,UAH,card,rebuild_2026,general,false,true,UA,Дніпро
+WEB-100011,2025-07-09T00:02:34Z,Volodymyr Hrytsenko,v.hrytsenko@outlook.com,,250000.00,UAH,google_pay,emergency_2025,humanitarian,false,true,UA,Київ
+WEB-100012,2026-03-28T06:18:18Z,Olena Kovalchuk,olenakovalchuk@gmail.com,+38 (067) 123-45-67,1000.00,UAH,apple_pay,,general,false,true,UA,Київ
+WEB-100013,2025-02-23T14:26:07Z,Andrii Shevchenko,a.shevchenko@i.ua,,300.00,UAH,card,winter_appeal_2024,scholarship,false,true,UA,Харків
+WEB-100014,2025-07-20T10:36:12Z,Olena Kovalchuk,o.lena.kovalchuk+kse@gmail.com,,1000.00,UAH,card,,humanitarian,false,true,UA,Київ
+WEB-100015,2024-12-03T17:07:24Z,Anna Schmidt,anna.schmidt@web.de,+493012345678,50.00,EUR,card,winter_appeal_2024,humanitarian,false,true,DE,Berlin
+WEB-100016,2024-09-16T16:51:24Z,Olha Lysenko,o.lysenko@ukr.net,0631119988,1000.00,UAH,card,scholarship_fund,general,false,true,UA,Київ
+WEB-100017,2026-07-03T04:11:47Z,Katarzyna Nowak,k.nowak@wp.pl,+48501234567,20.00,EUR,apple_pay,winter_appeal_2024,general,false,true,PL,Warsaw
+WEB-100018,2025-05-03T09:24:18Z,Mariia Bondarenko,m.bondarenko@gmail.com,0671110022,2000.00,UAH,google_pay,annual_2025,humanitarian,false,true,UA,Вінниця
+WEB-100019,2026-03-16T19:14:11Z,Ivan Melnyk,i.melnyk@ukr.net,0501112233,1000.00,UAH,apple_pay,annual_2025,general,false,true,UA,Львів
+WEB-100007,2025-06-21T23:25:55Z,Ivan Melnychuk,melnychuk.ivan@gmail.com,0509998877,5000.00,UAH,card,emergency_2025,general,false,true,UA,Одеса
+WEB-100020,2024-08-31T05:05:58Z,Viktoriia Moroz,v.moroz@gmail.com,0632221100,1000.00,UAH,apple_pay,annual_2025,humanitarian,false,false,UA,Львів
+WEB-100021,2026-03-14T11:51:52Z,Bohdan Kozak,b.kozak@gmail.com,0664443322,200.00,UAH,card,emergency_2025,general,true,true,UA,Вінниця
+WEB-100022,2023-09-17T11:40:20Z,Sofiia Tkachenko,sofia.tkachenko@ukr.net,0662223344,5000.00,UAH,card,annual_2025,scholarship,false,true,UA,Львів
+WEB-100023,2023-07-31T16:07:38Z,Volodymyr Hrytsenko,v.hrytsenko@outlook.com,0503334455,50000.00,UAH,card,,general,false,true,UA,Київ
+WEB-100024,2025-11-18T18:31:26Z,Nataliia Savchenko,n.savchenko@i.ua,0671234000,5000.00,UAH,card,emergency_2025,humanitarian,false,true,UA,Харків
+WEB-100025,2024-10-09T00:47:48Z,Andrii Zghurskyi,a.zghurskyi@gmail.com,,20.00,EUR,card,scholarship_fund,general,false,true,PL,Warsaw
+WEB-100026,2025-03-05T05:11:59Z,Andrii Shevchenko,shevchenko.andriy1988@gmail.com,0679876543,2000.00,UAH,apple_pay,rebuild_2026,general,false,false,UA,Дніпро
+WEB-100027,2026-08-04T04:52:30Z,Nordic Aid Foundation,grants@nordicaid.org,+46812345678,1250.00,EUR,google_pay,,humanitarian,false,true,SE,Stockholm
+WEB-100028,2024-01-28T13:07:51Z,Andrii Zghurskyi,a.zghurskyi@gmail.com,,200.00,EUR,google_pay,annual_2025,general,false,true,PL,Warsaw
+WEB-100029,2023-03-27T06:23:13Z,Sofiia Tkachenko,sofia.tkachenko@ukr.net,0662223344,300.00,UAH,apple_pay,rebuild_2026,general,false,true,UA,Львів
+WEB-100030,2024-09-04T23:31:28Z,Sofiia Tkachenko,sofia.tkachenko@ukr.net,0662223344,200.00,UAH,apple_pay,annual_2025,scholarship,false,true,UA,Львів
+WEB-100031,2025-03-15T01:56:23Z,Volodymyr Hrytsenko,v.hrytsenko@outlook.com,,25000.00,UAH,card,emergency_2025,scholarship,false,true,UA,Київ
+WEB-100032,2025-07-25T22:44:01Z,Yurii Pavlenko,y.pavlenko@gmail.com,0505558877,500.00,UAH,card,emergency_2025,scholarship,false,true,UA,Одеса
+WEB-100033,2026-06-10T03:54:52Z,Sofiia Tkachenko,sofia.tkachenko@ukr.net,0662223344,1000.00,UAH,card,rebuild_2026,scholarship,false,true,UA,Львів
+WEB-100034,2023-05-12T02:54:07Z,Andrii Shevchenko,a.shevchenko@i.ua,,300.00,UAH,apple_pay,scholarship_fund,scholarship,false,true,UA,Харків
+WEB-100035,2026-06-09T19:25:32Z,Dmytro Romaniuk,d.romaniuk@gmail.com,0674445566,200.00,USD,google_pay,,humanitarian,false,true,UA,Київ
+WEB-100036,2025-08-31T00:57:00Z,Tekhnobud LLC,finance@tehnobud.ua,0442223344,250000.00,UAH,google_pay,rebuild_2026,scholarship,false,true,UA,Київ
+WEB-100037,2025-08-02T21:09:48Z,Andrii Shevchenko,shevchenko.andriy1988@gmail.com,,1000.00,UAH,apple_pay,,general,false,false,UA,Дніпро
+WEB-100038,2026-02-15T16:26:10Z,Volodymyr Hrytsenko,v.hrytsenko@outlook.com,0503334455,250000.00,UAH,apple_pay,scholarship_fund,humanitarian,false,true,UA,Київ
+WEB-100039,2024-04-22T14:07:42Z,Serhii Diachenko,s.diachenko@i.ua,0502223311,5000.00,UAH,apple_pay,winter_appeal_2024,humanitarian,false,true,UA,Одеса
+WEB-100040,2025-06-30T19:38:37Z,Ivan Melnychuk,melnychuk.ivan@gmail.com,0509998877,300.00,UAH,card,scholarship_fund,scholarship,false,true,UA,Одеса
+WEB-100041,2026-02-13T20:15:34Z,Yurii Pavlenko,y.pavlenko@gmail.com,0505558877,5000.00,UAH,card,rebuild_2026,scholarship,false,true,UA,Одеса
+WEB-100042,2026-03-12T21:24:10Z,Dmytro Romaniuk,d.romaniuk@gmail.com,0674445566,2000.00,UAH,apple_pay,annual_2025,general,false,true,UA,Київ
+WEB-100043,2024-03-14T10:15:53Z,Nordic Aid Foundation,grants@nordicaid.org,+46812345678,1250.00,EUR,card,rebuild_2026,humanitarian,false,true,SE,Stockholm
+WEB-100044,2024-01-15T21:22:12Z,Andrii Zghurskyi,a.zghurskyi@gmail.com,+48221234567,50.00,EUR,card,,scholarship,false,true,PL,Warsaw
+WEB-199999,2026-07-14T09:12:00Z,Volodymyr Hrytsenko,v.hrytsenko@outlook.com,0503334455,250000.00,UAH,card,rebuild_2026,general,false,true,UA,Київ
+WEB-150001,2023-03-10T12:00:00Z,Sofiia Tkachenko,sofia.tkachenko@ukr.net,,500.00,UAH,card,annual_2025,general,false,true,UA,Львів
+WEB-150002,2023-05-22T18:30:00Z,Sofiia Tkachenko,sofia.tkachenko@ukr.net,,300.00,UAH,card,annual_2025,general,false,true,UA,Львів
+WEB-190500,2026-06-05T11:15:00Z,Sofiia Tkachenko,sofia.tkachenko@ukr.net,,1000.00,UAH,card,annual_2025,general,false,true,UA,Львів
